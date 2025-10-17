@@ -1,0 +1,50 @@
+{
+    "hero": {
+        "welcome": "Bringing Healthcare Closer to You",
+        "description": "Accessible telemedicine services designed for rural communities, ensuring quality care is always within reach.",
+        "getStarted": "Get Started"
+    },
+    "services": {
+        "title": "Our Services",
+        "appointments": {
+            "title": "Book Appointments",
+            "description": "Schedule virtual consultations with qualified doctors at your convenience.",
+            "button": "Book Now"
+        },
+        "notifications": {
+            "title": "Notifications",
+            "description": "Stay updated with appointment reminders and important health alerts.",
+            "button": "View Alerts"
+        },
+        "consultations": {
+            "title": "Access Consultations",
+            "description": "Join your scheduled video consultations easily from anywhere.",
+            "button": "Join Call"
+        },
+        "education": {
+            "title": "Health Education",
+            "description": "Learn about preventive care, nutrition, and common health issues through our courses.",
+            "button": "Explore Courses"
+        }
+    },
+    "about": {
+        "title": "About JeevanCare",
+        "description1": "JeevanCare is dedicated to bridging the healthcare gap in underserved rural areas. We leverage technology to provide convenient, reliable, and affordable medical consultations, empowering communities with better health outcomes.",
+        "description2": "Our platform connects patients with experienced healthcare professionals, offering a range of services from general check-ups to specialized care, all from the comfort of your home."
+    },
+    "cta": {
+        "title": "Ready to Experience Convenient Healthcare?",
+        "button": "Start Your Journey"
+    },
+    "footer": {
+        "quickLinks": "Quick Links",
+        "legal": "Legal",
+        "aboutUs": "About Us",
+        "services": "Services",
+        "contact": "Contact",
+        "privacy": "Privacy Policy",
+        "terms": "Terms of Service",
+        "support": "Support",
+        "tagline": "Bringing healthcare closer to rural communities through technology."
+    }
+}
